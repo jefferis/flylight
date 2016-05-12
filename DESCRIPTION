@@ -9,3 +9,5 @@ Description: Functions for working with Janelia FlyLight confocal images.
 License: GPL-3
 LazyData: TRUE
 RoxygenNote: 5.0.1.9000
+URL: https://github.com/jefferis/flylight
+BugReports: https://github.com/jefferis/flylight/issues
