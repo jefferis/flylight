@@ -1,0 +1,11 @@
+Package: flylight
+Type: Package
+Title: Functions for working with Janelia FlyLight confocal images
+Version: 0.1
+Date: 2016-05-12
+Author: Gregory Jefferis
+Maintainer: Gregory Jefferis <jefferis@gmail.com>
+Description: Functions for working with Janelia FlyLight confocal images.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
